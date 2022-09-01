@@ -1,0 +1,51 @@
+{
+  "checksum": {
+    "previous": "3d8807ba86c957f297ec07738db681fdc420b896ce404fabc9c5254433ba1e24",
+    "current": "3d8807ba86c957f297ec07738db681fdc420b896ce404fabc9c5254433ba1e24"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_3d8807ba86c957f297ec07738db681fd.ttf",
+    "fontcustom/fontcustom_3d8807ba86c957f297ec07738db681fd.svg",
+    "fontcustom/fontcustom_3d8807ba86c957f297ec07738db681fd.woff",
+    "fontcustom/fontcustom_3d8807ba86c957f297ec07738db681fd.eot"
+  ],
+  "glyphs": {
+    "meditation": {
+      "codepoint": 61696,
+      "source": "/Users/gael/Dropbox/web+/gael.pw/gael.pw/assets/fonts/svg_files/meditation.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": "/Users/gael/Dropbox/web+/gael.pw/gael.pw/assets/fonts/svg_files/",
+      "vectors": "/Users/gael/Dropbox/web+/gael.pw/gael.pw/assets/fonts/svg_files/"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "skip_first": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

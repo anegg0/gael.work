@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content=
+	"width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<title>Gaël Blanchemain</title><!-- CSS -->
+	<!-- Bootstrap core CSS -->
+	<link href="assets/bootstrap/css/bootstrap.min.css" rel=
+	"stylesheet" media="screen"><!-- Owl Carousel -->
+	<link href="assets/css/owl.theme.css" rel="stylesheet">
+	<link href="assets/css/owl.carousel.css" rel="stylesheet">
+	<!-- Magnific-popup lightbox -->
+	<link href="assets/css/magnific-popup.css" rel="stylesheet">
+	<!-- Simple text rotator -->
+	<link href="assets/css/simpletextrotator.css" rel="stylesheet">
+	<!-- Font Awesome CSS -->
+	<link href="assets/css/font-awesome.min.css" rel="stylesheet">
+	<!--media="screen"-->
+	<!-- Font Customf CSS -->
+	<link href="assets/css/fontcustom.css" rel="stylesheet">
+	<!--media="screen"-->
+	<!-- Animate css -->
+	<link href="assets/css/animate.css" rel="stylesheet">
+	<!-- Custom styles CSS -->
+	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+</head>
+<body>
+	<div class="wrapper">
+	<!-- Preloader -->
+	<div id="preloader">
+	<div id="status">
+	<div class="status-mes">
+	<h4>Gaël Blanchemain</h4>
+	</div>
+	</div>
+	</div><!-- Navigation start -->
+	<nav class="navbar navbar-custom navbar-fixed-top" role=
+	"navigation">
+	<div class="container">
+	<!-- Brand and toggle get grouped for better mobile display -->
+	<div class="navbar-header">
+	<button type="button" class="navbar-toggle" data-toggle=
+	"collapse" data-target=
+	"#bs-example-navbar-collapse-1"><span class="sr-only">Toggle
+	navigation</span> <span class="icon-bar"></span> <span class=
+	"icon-bar"></span> <span class="icon-bar"></span></button>
+	<a class="navbar-brand" href="#">Gaël Blanchemain</a>
+	</div>
+	<!-- Collect the nav links, forms, and other content for toggling -->
+	<div class="collapse navbar-collapse" id=
+	"bs-example-navbar-collapse-1">
+	<ul class="nav navbar-nav navbar-right">
+	<li>
+	<a href="#intro">home</a>
+	</li>
+	<li>
+	<a href="#profile">Profile</a>
+	</li><!-- <li><a href="#services">Services</a></li> -->
+	<li>
+	<a href="#resume">Resume</a>
+	</li><!-- <li><a href="#portfolio">Portfolio</a></li> -->
+	<li>
+	<a href="#contact">Contact</a>
+	</li>
+	</ul>
+	</div>
+	</div>
+	</nav><!-- Navigation end -->
+	<!-- Intro section start -->
+	<section id="intro" class="section">
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12">
+	<div class="hello wow fadeInDown">
+	<h2>Gaël Blanchemain</h2>
+	<h3><span class="rotate">Software Engineer | Technical
+	Writer | Let's build something that matters</span></h3>
+	</div><a href="#profile">
+	<div class="mouse-icon">
+	<div class="wheel"></div>
+	</div></a>
+	</div>
+	</div><!-- .row -->
+	</div><!-- .container -->
+	</section><!-- Intro section end -->
+	<!-- Profile contact callout section -->
+	<section id="profile-contact">
+	<div class="container">
+	<div class="row">
+	<div class="col-sm-4 wow fadeInLeft">
+	<div class="profile-item">
+	<i class="fa fa-envelope-o"></i>
+	<h5><a href="#">gael@gr0wing.com</a></h5>
+	</div>
+	</div>
+	<div class="col-sm-4 wow fadeInUp">
+	<div class="profile-item">
+	<i class="fa fa-phone"></i>
+	<h5>(646)-709-0053</h5>
+	</div>
+	</div>
+	<div class="col-sm-4 wow fadeInRight">
+	<div class="profile-item">
+	<i class="fa fa-map-marker"></i>
+	<h5>7400 SW Barnes Rd, Portland, OR, 97225</h5>
+	</div>
+	</div>
+	</div><!-- .row -->
+	</div><!-- .container -->
+	</section><!-- Profile contact callout section -->
+	<!-- Profile section start -->
+	<section id="profile" class="section">
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12 headline wow fadeInDown">
+	<h2>Gaël Blanchemain</h2>
+	<p>Software Engineer. Technical Writer. Action Driven
+	Idealist.</p>
+	</div>
+	<div class="col-md-3 col-sm-6 hidden-xs wow fadeInLeft">
+	<img class="avatar" src="assets/images/portrait-WDI.jpg" alt=
+	""></div>
+	<div class="col-md-3 col-sm-6 wow fadeInUp">
+	<div class="profile-widget">
+	<h3>Skillset</h3>
+	<h5>Ethereum Stack</h5>
+	<div class="skill-bar">
+	<div class="skill-rate-on"></div>
+	<div class="skill-rate-on"></div>
+	<div class="skill-rate-on"></div>
+	<div class="skill-rate-on"></div>
+	</div>
+	<h5>node.js/javascript/typescript</h5>
+	<div class="skill-bar">
+	<div class="skill-rate-on"></div>
+	<div class="skill-rate-on"></div>
+	<div class="skill-rate-on"></div>
+	<div class="skill-rate-off"></div>
+	</div>
+	<h5>Technical Writing</h5>
+	<div class="skill-bar">
+	<div class="skill-rate-on"></div>
+	<div class="skill-rate-on"></div>
+	<div class="skill-rate-on"></div>
+	<div class="skill-rate-on"></div>
+	</div>
+	</div>
+	<div class="profile-widget">
+	<h3>Social Profiles</h3>
+	<ul class="widget-social">
+	<li>
+	<a href="https://github.com/anegg0"><i class=
+	"fa fa-github-alt"></i></a>
+	</li>
+	<li>
+	<a href=
+	"http://www.linkedin.com/in/gaelblanchemain"><i class=
+	"fa fa-linkedin"></i></a>
+	</li>
+	</ul>
+	</div>
+	</div><!-- .col-md-3 -->
+	<div class="col-md-6 col-sm-12 wow fadeInRight">
+	<h3>Professional Profile</h3>
+	<h4>1- Blockchain Developer</h4>
+	<h4>2- Technical Writer</h4>
+	<p>I turn good ideas into profitable ones by simplifying
+	them.</p>
+	<p>With a technical mindset and a creative drive, I enjoy
+	facilitating new tools adoption by developers.</p>
+	<p>And in general, I like to solve problems:</p>
+	<p>In 2006, the indexation of traditional Tibetan texts was a
+	large pain, so I co-managed the creation of a <a href=
+	"https://catalogue.bibliotheque-dhagpo-kagyu.org/#/">Web
+	App</a> that solved the issue (I was a <a href=
+	"http://www.gr0wing.com/4-things-you-should-know-if-you-want-to-be-a-buddhist-monk/">
+	Buddhist Monk</a> at that time).</p>
+	<p>In 2008, I restarted my career from scratch as an Inside
+	Sales Rep in a Mobile Apps Dev Shop. After spending weeks
+	analyzing the unspoken needs of my corporate customers, I
+	convinced the team to drop 95% of its offer and focus on
+	mHealth only, which resulted in the biggest sales the company
+	had ever made.</p>
+	<p>Now a Software Engineer and Technical Writer at <a href=
+	"https://www.palm.io">Palm NFT Studio</a>, I am passionate
+	about the decentralized movement and want to contribute to
+	impactful Web3 projects.</p>
+	<p>Fluent in English, French and interpreter in Tibetan
+	language. I’m a cool-headed enthusiast who believes that the
+	best ideas are grown collectively, on the basis of friendship
+	and shared knowledge.</p>
+	</div>
+	</div><!-- .row -->
+	</div><!-- .container -->
+	</section><!-- Profile section end -->
+	<!-- Services section start -->
+	<section id="services" class="section">
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12 headline wow fadeInDown">
+	<h2>What I can do for you</h2>
+	<p>And how it will help your business.</p>
+	</div>
+	<div class="col-md-12">
+	<div class="row">
+	<div class="col-sm-4 wow fadeInUp">
+	<div class="service">
+	<div class="icon">
+	<i class="fa fa-terminal"></i>
+	</div>
+	<h4>Blockchain Developer</h4>
+	<div class="text">
+	<p>Passionate about the blockchain and employed full-time
+	in that field since 2016, I learned the EVM stack with
+	early Ethereum developers and bet my career on Web3.</p>
+	<p>Today I focus on learning as much as I can and passing
+	on my understanding to new-comers.</p>
+	</div>
+	</div>
+	</div>
+	<div class="col-sm-4 wow fadeInLeft">
+	<div class="service">
+	<div class="icon"><img src="assets/fonts/bookmark.jpg"
+	alt=""></div>
+	<h4>Technical Writer</h4>
+	<div class="text">
+	<p>I write content to help developers build, test and put
+	into production. That includes explaining basic concepts
+	as well as providing example code and training
+	repositories.</p>
+	</div>
+	</div>
+	</div>
+	<div class="col-sm-4 wow fadeInRight">
+	<div class="service">
+	<div class="icon"><img src="assets/images/logo/bridge.png"
+	alt=""></div>
+	<h4>Human Bridge</h4>
+	<div class="text">
+	<p>I support developers' effort by answering their
+	questions on their preferred channels (Discord,
+	Telegram). I love to team up with developers' and solve
+	their problems across Ethereum-stack tools: EVM,
+	Solidity, as well as Javascript/Typescript.</p>
+	</div>
+	</div>
+	</div>
+	</div><!-- .row -->
+	<!-- <div class="row"> -->
+	<!-- <div class="col-sm-4 wow fadeInUp" data-wow-delay=".2s"> -->
+	<!-- <div class="service"> -->
+	<!-- <div class="icon"> -->
+	<!-- <i class="fa fa-code"></i> -->
+	<!-- </div> -->
+	<!-- <h4>Blockchain developer</h4> -->
+	<!-- <div class="text"> -->
+	<!-- <p>Fully involved in the Web3 transformation, I can spin -->
+	<!-- up decentralized apps and blockchain based projects.</p> -->
+	<!-- </div> -->
+	<!-- </div> -->
+	<!-- </div> -->
+	<!-- <div class="col-sm-4 wow fadeInUp" data-wow-delay=".4s"> -->
+	<!-- <div class="service"> -->
+	<!-- <div class="icon"><img src= -->
+	<!-- "assets/fonts/meditation_guru.jpg" alt=""></div> -->
+	<!-- <h4>Team Pacifier</h4> -->
+	<!-- <div class="text"> -->
+	<!-- <p>Tech crews are made of humans too, and problems are -->
+	<!-- solved faster if you factor that in.</p> -->
+	<!-- <p>I practice and teach Meditation to smoothen rough -->
+	<!-- rides for everybody, and I try to be an agent of balance -->
+	<!-- in team I work with.</p> -->
+	<!-- </div> -->
+	<!-- </div> -->
+	<!-- </div> -->
+	<!-- <div class="col-sm-4 wow fadeInUp" data-wow-delay=".6s"> -->
+	<!-- <div class="service"> -->
+	<!-- <div class="icon"><\!-- <i class="fa fa-life-ring"></i> -\-> -->
+	<!-- <img src="assets/fonts/bookmark.jpg" alt=""></div> -->
+	<!-- <h4>Words Builder</h4> -->
+	<!-- <div class="text"> -->
+	<!-- <p>Ideas should be refined until they can ship anywhere -->
+	<!-- and still get the click. That skill requires training, -->
+	<!-- though.</p> -->
+	<!-- <p>Check my writer's playground, where I talk about Urban -->
+	<!-- Buddhism: <a href="http://www.gr0wing.com">gr0wing</a> -->
+	<!-- (15 000 monthly visitors)</p> -->
+	<!-- </div> -->
+	<!-- </div> -->
+	<!-- </div> -->
+	<!-- </div><\!-- .row -\-> -->
+	</div><!-- .col-md-12 -->
+	</div>
+	</div>
+	</section>
+	</div><!-- .row -->
+	<!-- .container -->
+	<!-- Services section end -->
+	<!-- Resume section start -->
+	<section id="resume" class="section">
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12 headline wow fadeInDown">
+	<h2>Resume</h2>
+	<p>My jobs and education.</p>
+	</div>
+	</div><!-- .row -->
+	<div class="row resume-items">
+	<div class="col-md-3 wow fadeInLeft">
+	<h3>Experience</h3>
+	</div>
+	<div class="col-md-6 col-sm-8 resume-item wow fadeInLeft">
+	<h4>Software Engineer - Technical Writer</h4>
+	<ul>
+	<li>Solidity</li>
+	<li>Typescript</li>
+	<li>Mkdocs</li>
+	<li>Docusaurus</li>
+	</ul>Currently in position.
+	<ul>
+	<li>Over $280K sales for Mobile apps development
+	projects.</li>
+	<li>Revamped Mobile Distillery’s marketing strategy for a 80%
+	hit-ratio improvement.</li>
+	<li>Assessed the needs of 300+ companies and educated key
+	accounts on Mobile Distillery's products and services.</li>
+	<li>Won 40% of Mobile-D Group’s abroad: US, Germany, Finland,
+	Italy, Saudi Arabia, UK, Romania, France.</li>
+	</ul>
+	<hr class="hidden-xs">
+	</div>
+	<div class="col-md-3 col-sm-4 resume-place wow fadeInRight">
+	<h4><i class="fa fa-suitcase"></i>Palm NFT
+	Studio</h4><i class="fa fa-calendar"></i> November 2021 - Now
+	<hr class="visible-xs">
+	</div>
+	<div class=
+	"col-md-6 col-md-offset-3 col-sm-8 resume-item wow fadeInUp">
+	<h4>Software Engineer - Freelance</h4>
+	<ul>
+	<li>Solidity</li>
+	<li>C#</li>
+	<li>Python</li>
+	</ul>
+	<hr class="hidden-xs">
+	</div>
+	<div class="col-md-3 col-sm-4 resume-place wow fadeInRight">
+	<h4><i class="fa fa-suitcase"></i>Gr0wing</h4><i class=
+	"fa fa-calendar"></i> Mars 2020 - October 2021
+	<hr class="visible-xs">
+	</div>
+	<div class=
+	"col-md-6 col-md-offset-3 col-sm-8 resume-item wow fadeInUp">
+	<h4>Technical Writer</h4>
+	<p>Focused on the <a href=
+	"https://nethereum.com/">Nethereum</a> project</p>
+	<ul>
+	<li>.NET</li>
+	<li>Solidity</li>
+	<li>C#</li>
+	</ul>
+	<hr class="hidden-xs">
+	</div>
+	<div class="col-md-3 col-sm-4 resume-place wow fadeInRight">
+	<h4><i class="fa fa-suitcase"></i>ConsenSys</h4><i class=
+	"fa fa-calendar"></i> August 2016 - February 2020
+	<hr class="visible-xs">
+	</div>
+	<div class=
+	"col-md-6 col-md-offset-3 col-sm-8 resume-item wow fadeInUp">
+	<h4>Sales Director</h4>
+	<p>Kick started the company:</p>
+	<ul>
+	<li>marketing strategy</li>
+	<li>hiring</li>
+	<li>sales</li>
+	</ul>
+	<p></p>
+	<hr class="hidden-xs">
+	</div>
+	<div class="col-md-3 col-sm-4 resume-place wow fadeInRight">
+	<h4><i class="fa fa-suitcase"></i>Lp digital USA,
+	Inc.</h4><i class="fa fa-calendar"></i> 2015 - 2016
+	<hr class="visible-xs">
+	</div>
+	<div class=
+	"col-md-6 col-md-offset-3 col-sm-8 resume-item wow fadeInUp">
+	<h4>Business Development Manager</h4>
+	<ul>
+	<li>Over $280K sales for Mobile apps development
+	projects.</li>
+	<li>Revamped Mobile Distillery’s marketing strategy for a 80%
+	hit-ratio improvement.</li>
+	<li>Assessed the needs of 300+ companies and educated key
+	accounts on Mobile Distillery's products and services.</li>
+	<li>Won 40% of Mobile-D Group’s abroad: US, Germany, Finland,
+	Italy, Saudi Arabia, UK, Romania, France.</li>
+	</ul>
+	<hr class="hidden-xs">
+	</div>
+	<div class="col-md-3 col-sm-4 resume-place wow fadeInRight">
+	<h4><i class="fa fa-suitcase"></i> Mobile D
+	Group</h4><i class="fa fa-calendar"></i> 2008 - 2014
+	<hr class="visible-xs">
+	</div>
+	<div class=
+	"col-md-6 col-md-offset-3 col-sm-8 resume-item wow fadeInUp">
+	<h4>Project Manager</h4>
+	<ul>
+	<li>Co-managed development of a documentation search engine:
+	organized outsourced workforce, meetings, and monthly
+	progress assessments.</li>
+	<li>Served as a liaison between executives and IT system
+	administrators for a successful communication and goal
+	definition.</li>
+	<li>Managed the deployment, training and use of an
+	international groupware (Mimerdesk).</li>
+	</ul>
+	<hr class="hidden-xs">
+	</div>
+	<div class="col-md-3 col-sm-4 resume-place wow fadeInRight">
+	<h4><i class="fa fa-suitcase"></i>UTBF / DKL</h4><i class=
+	"fa fa-calendar"></i> 1999 - 2008
+	<hr class="visible-xs">
+	</div>
+	</div><!-- .row -->
+	<div class="row resume-items">
+	<div class="col-md-3 wow fadeInLeft">
+	<h3>Education</h3>
+	</div>
+	<div class="col-md-6 col-sm-8 resume-item wow fadeInUp">
+	<h4>ConsenSys Blockchain Academy</h4>
+	<p>Blockchain Development Training. Focus on Solidity,
+	Ethereum, Truffle.</p>
+	<hr class="hidden-xs">
+	</div>
+	<div class="col-md-3 col-sm-4 resume-place wow fadeInRight">
+	<h4><i class="fa fa-suitcase"></i>ConsenSys Blockchain
+	Academy</h4><i class="fa fa-calendar"></i> 2017 - 2018
+	<hr class="visible-xs">
+	</div>
+	<div class=
+	"col-md-6 col-md-offset-3 col-sm-8 resume-item wow fadeInUp">
+	<h4>Web Development Immersive</h4>
+	<p>Web App Development Bootcamp. Focus on Ruby, Javascript,
+	HTML5 and CSS.</p>
+	<hr class="hidden-xs">
+	</div>
+	<div class="col-md-3 col-sm-4 resume-place wow fadeInRight">
+	<h4><i class="fa fa-suitcase"></i>General
+	Assembly</h4><i class="fa fa-calendar"></i> 2014 - 2015
+	<hr class="visible-xs">
+	</div>
+	<div class=
+	"col-md-6 col-md-offset-3 col-sm-8 resume-item wow fadeInUp">
+	<h4>Literary English</h4>
+	<p>Unversity graduate in English Literature and American
+	civilization.</p>
+	<hr class="hidden-xs">
+	</div>
+	<div class="col-md-3 col-sm-4 resume-place wow fadeInRight">
+	<h4><i class="fa fa-suitcase"></i>Université de
+	Lettres</h4><i class="fa fa-calendar"></i> 1995 - 1997
+	<hr class="visible-xs">
+	</div>
+	</div><!-- .row -->
+	<div class="row">
+	<!-- <div class="col-md-6 col-md-offset-3 wow fadeInUp">
+                                                <a href="#" class="btn btn-default btn-custom-2"><i class="fa fa-cloud-download icon-before"></i> Download CV</a>
+                                        </div> -->
+	</div><!-- .row -->
+	</div><!-- .container -->
+	</section><!-- Contact section start -->
+	<section id="contact" class="section">
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12 headline wow fadeInLeft">
+	<h3>Contact Me</h3>
+	<p>Drop me a line or more. Let's build something that
+	matters.</p>
+	</div>
+	<div class="col-md-6 wow fadeInUp">
+	<div class="col-md-3 col-sm-6"><img class="avatar" src=
+	"assets/images/portrait-WDI.jpg" alt=""></div>
+	<ul class="icon-list">
+	<li><i class="fa fa-fw fa-map-marker"></i>7400 SW Barnes Rd -
+	Apt 983, Portland, OR, 97225, USA</li>
+	<li><i class="fa fa-fw fa-phone"></i>(646)-709-0053</li>
+	<li>
+	<i class="fa fa-fw fa-envelope-o"></i><a href=
+	"mailto:">gael@gr0wing.com</a>
+	</li>
+	<li>
+	<i class="fa fa-fw fa-linkedin"></i><a href=
+	"https://www.linkedin.com/in/gaelblanchemain">Connect with
+	me on LinkedIn</a>
+	</li>
+	</ul>
+	</div>
+	</div><!-- .row -->
+	</div><!-- .container -->
+	</section><!-- Contact section end -->
+	<!-- Footer start -->
+	<footer id="footer">
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12">
+	<p class="copy">2022 Gaël Blanchemain<br>
+	This work is licensed under a <a rel="license" href=
+	"http://creativecommons.org/licenses/by/4.0/">Creative Commons
+	Attribution 4.0 International License</a>.</p>
+	</div>
+	</div><!-- .row -->
+	</div><!-- .container -->
+	</footer><!-- Footer end -->
+	<!-- .wrapper -->
+	<!-- Javascript files -->
+	<!-- jQuery -->
+	<script src="assets/js/jquery-1.11.0.min.js"></script>
+	<!-- Bootstrap JS -->
+
+	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+	<!-- Background slider -->
+
+	<script src="assets/js/jquery.backstretch.min.js"></script>
+	<!-- OwlCarousel -->
+
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<!-- Modal for portfolio -->
+
+	<script src="assets/js/jquery.magnific-popup.min.js"></script>
+	<!-- Text rotator -->
+
+	<script src=
+	"assets/js/jquery.simple-text-rotator.min.js"></script>
+	<!-- Waypoints -->
+
+	<script src="assets/js/jquery.waypoints.js"></script>
+	<!-- CountTo  -->
+
+	<script src="assets/js/jquery.countTo.js"></script>
+	<!-- WOW - Reveal Animations When You Scroll -->
+
+	<script src="assets/js/wow.min.js"></script>
+	<!-- Smooth scroll -->
+
+	<script src="assets/js/smoothscroll.js"></script> <!-- Fitvids -->
+
+	<script src="assets/js/jquery.fitvids.js"></script>
+	<!-- Custom scripts -->
+
+	<script src="assets/js/custom.js"></script>
+</body>
+</html>
