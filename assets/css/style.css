@@ -7,8 +7,8 @@
  * General styles
 /* ---------------------------------------------- */
 
-@import url(./assets/fonts/static/);
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import "../fonts/Montserrat/";
+@import "../fonts/Raleway/";
 
 body {
 	font: 300 15px/1.6 'Raleway', serif, sans-serif;
