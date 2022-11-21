@@ -7,7 +7,7 @@
  * General styles
 /* ---------------------------------------------- */
 
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(./assets/fonts/static/);
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 body {
